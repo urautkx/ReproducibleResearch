@@ -1,9 +1,17 @@
+---
+author: Kamal Rautela
+output:
+  md_document
+    
+---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
 R Markdown file for Course Reproducible Research Week2 Project 
+===============================================================
+
 
 [A] Loading and Preprocessing the data
 ========================================
